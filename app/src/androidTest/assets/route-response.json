@@ -1,0 +1,5671 @@
+{
+    "data": {
+        "type": "routes",
+        "id": "207556",
+        "attributes": {
+            "name": "Vecht valley route: follow the Vecht to Germany",
+            "description": "This LF route of 245 kilometers from Zwolle follows the Vecht to Darfeld in Germany, in seven stages. The first route starts in the Hanseatic city of Zwolle. From here you cycle to the estate village of Vilsteren, through old forests with beautiful villas and castles. At Ommen and Hardenberg, large contiguous forest areas alternate with beautiful farming communities, such as Junne, Beerze, Diffelen and Rheeze. Make a stop in Hardenberg at the cozy Boomstamrestaurant Het Heemse! Then you cross the border, past historic towns such as Gramsbergen, to a beautiful landscape of old farms with fruit trees. On the fourth stretch, you cross the Vecht many times. Via Bad Bentheim you cycle to the park landscape of Münsterland. Here the river can be found in bowls, bordered by old vegetation: this stream valley landscape is protected in many places.",
+            "shortDescription": "<span style=\"color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; letter-spacing: normal; background-color: rgb(255, 255, 255);\">Wil jij het Vechtdal ontdekken? Dan is deze LF-route van 245 kilometer van Zwolle naar het Duitse Darfeld iets voor jou. Al fietsend volg je de loop van de Vecht in zeven etappes. Verdeel deze etappes over verschillende dagen en maak kennis met de landschappen en gezellige plaatsjes op deze route. Het eerste traject start in de Hanzestad Zwolle. Vanuit hier fiets je naar Vilsteren door schitterende oude landgoedbossen. Vervolgens fiets je door de bossen verder naar Hardenberg. Daarna is het tijd om de Duitse grens over te steken. Op het derde traject kun je een pauze inlassen bij Granny's Barn Hadassa Hoeve in Ane voor een hapje en een drankje. Vervolgens fiets je verder naar Nordhorn en daarna naar Schüttorf en Metelen. Je eindigt uiteindelijk in Darfeld.</span>",
+            "published": true,
+            "totalDistance": 234667,
+            "totalTime": 49694.18823529412,
+            "transportationMode": "BICYCLING",
+            "viewCount": 26533,
+            "favoritesCount": 204,
+            "averageRating": 6,
+            "ratingCount": 85,
+            "isRoundTrip": false,
+            "routeMapImgUrl": "https://dist.route.nl/routemaps/medium/207556.png",
+            "elevationMeters": 1482
+        },
+        "relationships": {
+            "group": {
+                "data": {
+                    "type": "groups",
+                    "id": "2"
+                }
+            },
+            "startPoint": {
+                "data": {
+                    "type": "routepoints",
+                    "id": "67874583"
+                }
+            },
+            "routePoints": {
+                "data": [{
+                    "type": "routepoints",
+                    "id": "67874583"
+                },
+                    {
+                        "type": "routepoints",
+                        "id": "67874584"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874585"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874586"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874587"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874588"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874589"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874590"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874591"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874592"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874593"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874594"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874595"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874596"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874597"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874598"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874599"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874600"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874601"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874602"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874603"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874604"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874605"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874606"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874607"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874608"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874609"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874610"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874611"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874612"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874613"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874614"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874615"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874616"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874617"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874618"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874619"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874620"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874621"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874622"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874623"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874624"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874625"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874626"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874627"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874628"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874629"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874630"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874631"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874632"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874633"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874634"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874635"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874636"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874637"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874638"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874639"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874640"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874641"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874642"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874643"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874644"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874645"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874646"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874647"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874648"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874649"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874650"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874651"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874652"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874653"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874654"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874655"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874656"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874657"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874658"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874659"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874660"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874661"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874662"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874663"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874664"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874665"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874666"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874667"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874668"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874669"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874670"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874671"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874672"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874673"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874674"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874675"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874676"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874677"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874678"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874679"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874680"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874681"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874682"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874683"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874684"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874685"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874686"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874687"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874688"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874689"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874690"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874691"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874692"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874693"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874694"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874695"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874696"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874697"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874698"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874699"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874700"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874701"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874702"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874703"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874704"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874705"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874706"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874707"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874708"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874709"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874710"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874711"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874712"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874713"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874714"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874715"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874716"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874717"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874718"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874719"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874720"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874721"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874722"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874723"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874724"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874725"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874726"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874727"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874728"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874729"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874730"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874731"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874732"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874733"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874734"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874735"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874736"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874737"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874738"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874739"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874740"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874741"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874742"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874743"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874744"
+                    },
+                    {
+                        "type": "routepoints",
+                        "id": "67874745"
+                    }
+                ]
+            },
+            "categories": {
+                "data": [{
+                    "type": "categories",
+                    "id": "60"
+                },
+                    {
+                        "type": "categories",
+                        "id": "64"
+                    },
+                    {
+                        "type": "categories",
+                        "id": "68"
+                    },
+                    {
+                        "type": "categories",
+                        "id": "70"
+                    },
+                    {
+                        "type": "categories",
+                        "id": "146"
+                    }
+                ]
+            },
+            "mainImage": {
+                "data": {
+                    "type": "images",
+                    "id": "255269"
+                }
+            },
+            "images": {
+                "data": [{
+                    "type": "images",
+                    "id": "114715"
+                },
+                    {
+                        "type": "images",
+                        "id": "848554"
+                    },
+                    {
+                        "type": "images",
+                        "id": "9878788"
+                    }
+                ]
+            }
+        }
+    },
+    "included": [{
+        "type": "pois",
+        "id": "3591",
+        "attributes": {
+            "name": "17",
+            "description": null,
+            "latitude": 52.48837004,
+            "longitude": 6.07838166,
+            "isVisible": true,
+            "isLandmark": false,
+            "isParticipant": false,
+            "isJunction": true,
+            "website": "",
+            "phoneNumber": "",
+            "email": "",
+            "street": "Schellerdijk",
+            "houseNumber": "",
+            "postalCode": "8017BV",
+            "city": "Zwolle",
+            "state": "Overijssel",
+            "country": "The Netherlands",
+            "bookingUrl": null
+        },
+        "relationships": {
+            "category": {
+                "data": {
+                    "type": "categories",
+                    "id": "1"
+                }
+            },
+            "mainPicture": {}
+        }
+    },
+        {
+            "type": "categories",
+            "id": "1",
+            "attributes": {
+                "name": "Bicycle junction",
+                "icon": 18,
+                "popup": false,
+                "defaultChecked": false,
+                "type": "BICYCLE_JUNCTION"
+            },
+            "relationships": {
+                "children": {},
+                "topLevelCategory": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "8424",
+            "attributes": {
+                "name": "65",
+                "description": null,
+                "latitude": 52.50821913,
+                "longitude": 6.09137472,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Stationsweg",
+                "houseNumber": "",
+                "postalCode": "8011EA",
+                "city": "Zwolle",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "7744",
+            "attributes": {
+                "name": "64",
+                "description": null,
+                "latitude": 52.52710045,
+                "longitude": 6.07324123,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Holtenbroek",
+                "houseNumber": "",
+                "postalCode": "8031GC",
+                "city": "Zwolle",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "7711",
+            "attributes": {
+                "name": "67",
+                "description": null,
+                "latitude": 52.53633132,
+                "longitude": 6.12985051,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Haersterveerweg",
+                "houseNumber": "",
+                "postalCode": "8034PS",
+                "city": "Zwolle",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "2720",
+            "attributes": {
+                "name": "47",
+                "description": null,
+                "latitude": 52.52808762,
+                "longitude": 6.14015989,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Kranenburgweg",
+                "houseNumber": "",
+                "postalCode": "8024AD",
+                "city": "Zwolle",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "8335",
+            "attributes": {
+                "name": "49",
+                "description": null,
+                "latitude": 52.52180258,
+                "longitude": 6.15042565,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Maatgravenweg",
+                "houseNumber": "",
+                "postalCode": "8024ED",
+                "city": "Zwolle",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "8022",
+            "attributes": {
+                "name": "45",
+                "description": null,
+                "latitude": 52.51719854,
+                "longitude": 6.19949492,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Vitens Vechterweerd",
+                "houseNumber": "",
+                "postalCode": "7722KT",
+                "city": "Dalfsen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "8706",
+            "attributes": {
+                "name": "44",
+                "description": null,
+                "latitude": 52.51623259,
+                "longitude": 6.20924486,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "",
+                "houseNumber": "11",
+                "postalCode": "7722KT",
+                "city": "Dalfsen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "82",
+            "attributes": {
+                "name": "58",
+                "description": null,
+                "latitude": 52.50071869,
+                "longitude": 6.24988368,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Poppenallee",
+                "houseNumber": "",
+                "postalCode": "7721BS",
+                "city": "Dalfsen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "3176",
+            "attributes": {
+                "name": "83",
+                "description": null,
+                "latitude": 52.49987724,
+                "longitude": 6.25924849,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Poppenallee",
+                "houseNumber": "",
+                "postalCode": "7722HA",
+                "city": "Dalfsen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "140",
+            "attributes": {
+                "name": "59",
+                "description": null,
+                "latitude": 52.50306548,
+                "longitude": 6.25957656,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Burgemeester van Bruggenplein",
+                "houseNumber": "",
+                "postalCode": "7721AZ",
+                "city": "Dalfsen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "594176",
+            "attributes": {
+                "name": "Lunchroom en bakkerij Van der Most – Dalfsen",
+                "description": "Bakery Lunchroom Van der Most has been a household name in the nature-rich Vechtdal for many years. The company has lunch cafes in the towns of Ommen, Dalfsen, Raalte and Lemelerveld. You can enjoy a drink and pastry, freshly filled sandwiches and regional products such as Dalfser Moppen, Sallandse wine and the homemade Vechtdal pasta in every location. Curious about the secret behind the delicious chocolates and cakes? Then follow a workshop at the bakery. Go out in the Vechtdal, taste the peace and park your bike at Van der Most to satisfy your appetite.",
+                "latitude": 52.503571,
+                "longitude": 6.259856,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": true,
+                "isJunction": false,
+                "website": "https://www.bakkerijvandermost.nl/contact",
+                "phoneNumber": "+31 (0)572 37 28 80 ",
+                "email": "info@bakkerijvandermost.nl",
+                "street": "Prinsenstraat",
+                "houseNumber": "8",
+                "postalCode": "7721 AJ  ",
+                "city": "Dalfsen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "64"
+                    }
+                },
+                "mainPicture": {
+                    "data": {
+                        "type": "images",
+                        "id": "19178"
+                    }
+                }
+            }
+        },
+        {
+            "type": "categories",
+            "id": "64",
+            "attributes": {
+                "name": "Bicycle cafe",
+                "icon": 46,
+                "popup": true,
+                "defaultChecked": true,
+                "type": "POI_CATEGORY"
+            },
+            "relationships": {
+                "children": {},
+                "topLevelCategory": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1044"
+                    }
+                }
+            }
+        },
+        {
+            "type": "images",
+            "id": "23778",
+            "attributes": {
+                "URL": "https://dist.route.nl/pictures/large/bb2694cf-5433-4d57-8d63-3b15d471fbb8.jpg",
+                "Copyright": "CC-BY Henk van Soest",
+                "Alt-tekst": "Granny's Barn Hadassa Hoeve",
+                "Description": null
+            }
+        },
+        {
+            "type": "images",
+            "id": "50309",
+            "attributes": {
+                "URL": "https://dist.route.nl/pictures/large/b4005964-4272-43ec-87a4-e7babd2623f9.jpg",
+                "Copyright": "CC-BY Jay Crane",
+                "Alt-tekst": "B&B De Rheezer Kamer",
+                "Description": "B&B De Rheezer Kamer Thee- en Koffiehuis is located in one of the most beautiful places in the Overijssel Vechtdal. "
+            }
+        },
+        {
+            "type": "images",
+            "id": "19178",
+            "attributes": {
+                "URL": "https://dist.route.nl/pictures/large/d173d319-0d64-4326-80d7-6289f71f2006.jpg",
+                "Copyright": null,
+                "Alt-tekst": "Van der Most – Dalfsen",
+                "Description": "Vechtdal pasta in every location. Curious about the secret behind the delicious chocolates and cakes? "
+            }
+        },
+        {
+            "type": "images",
+            "id": "255269",
+            "attributes": {
+                "URL": "https://dist.route.nl/pictures/large/ef37b43e-9c27-4c66-aaa3-4a0a700d80f1.jpg",
+                "Copyright": "CC-BY Wester",
+                "Alt-tekst": null,
+                "Description": "Vechtdal pasta in every location. Curious about the secret behind the delicious chocolates and cakes? "
+            }
+        },
+        {
+            "type": "images",
+            "id": "114715",
+            "attributes": {
+                "URL": "https://dist.route.nl/pictures/large/4da0f67d-9438-4c88-8a5e-babde7de3a10.jpg",
+                "Copyright": "CC-BY Ooster",
+                "Alt-tekst": null,
+                "Description": null
+            }
+        },
+        {
+            "type": "images",
+            "id": "848554",
+            "attributes": {
+                "URL": "https://dist.route.nl/pictures/large/036a4321-6415-464e-a453-3d9216523d65.jpg",
+                "Copyright": "CC-BY Zuider",
+                "Alt-tekst": null,
+                "Description": "Vechtdal pasta in every location. Curious about the secret behind the delicious chocolates and cakes? "
+            }
+        },
+        {
+            "type": "images",
+            "id": "9878788",
+            "attributes": {
+                "URL": "https://dist.route.nl/pictures/large/cb7a5145-2a7c-40dc-afa8-fdef999b4c8b.jpg",
+                "Copyright": "CC-BY Noorder",
+                "Alt-tekst": "Cozy terrace route through the Bollenstreek",
+                "Description": null
+            }
+        },
+        {
+            "type": "pois",
+            "id": "595921",
+            "attributes": {
+                "name": "90",
+                "description": null,
+                "latitude": 52.51523805,
+                "longitude": 6.28919351,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "",
+                "houseNumber": "9",
+                "postalCode": "7722VC",
+                "city": "Dalfsen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "6282",
+            "attributes": {
+                "name": "8",
+                "description": null,
+                "latitude": 52.51981283,
+                "longitude": 6.29859887,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Uitkijktoren de Stokte",
+                "houseNumber": "",
+                "postalCode": "7722VD",
+                "city": "Dalfsen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "8879",
+            "attributes": {
+                "name": "69",
+                "description": null,
+                "latitude": 52.52463034,
+                "longitude": 6.31711784,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "",
+                "houseNumber": "",
+                "postalCode": "7722VE",
+                "city": "Dalfsen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "7676",
+            "attributes": {
+                "name": "60",
+                "description": null,
+                "latitude": 52.52429837,
+                "longitude": 6.33408615,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Maneweg",
+                "houseNumber": "",
+                "postalCode": "7722VJ",
+                "city": "Dalfsen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "6184",
+            "attributes": {
+                "name": "61",
+                "description": null,
+                "latitude": 52.52350624,
+                "longitude": 6.33648574,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "De Stuw",
+                "houseNumber": "",
+                "postalCode": "7722VJ",
+                "city": "Dalfsen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "10359",
+            "attributes": {
+                "name": "63",
+                "description": null,
+                "latitude": 52.51140383,
+                "longitude": 6.35266554,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Vilsterseweg",
+                "houseNumber": "",
+                "postalCode": "7734",
+                "city": "Ommen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "710",
+            "attributes": {
+                "name": "48",
+                "description": null,
+                "latitude": 52.51095894,
+                "longitude": 6.39002871,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Nieuwedijk",
+                "houseNumber": "",
+                "postalCode": "7731PC",
+                "city": "Ommen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "10823",
+            "attributes": {
+                "name": "72",
+                "description": null,
+                "latitude": 52.49387909,
+                "longitude": 6.40302636,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "",
+                "houseNumber": "9",
+                "postalCode": "8147RK",
+                "city": "Ommen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "4603",
+            "attributes": {
+                "name": "73",
+                "description": null,
+                "latitude": 52.49286686,
+                "longitude": 6.4068169,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Oude Hammerweg",
+                "houseNumber": "",
+                "postalCode": "8147RK",
+                "city": "Ommen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "10070",
+            "attributes": {
+                "name": "70",
+                "description": null,
+                "latitude": 52.50010039,
+                "longitude": 6.4287366,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "",
+                "houseNumber": "",
+                "postalCode": "7731AD",
+                "city": "Ommen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "1843",
+            "attributes": {
+                "name": "44",
+                "description": null,
+                "latitude": 52.50267669,
+                "longitude": 6.43217019,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "",
+                "houseNumber": "",
+                "postalCode": "7731AD",
+                "city": "Ommen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "9133",
+            "attributes": {
+                "name": "49",
+                "description": null,
+                "latitude": 52.51590089,
+                "longitude": 6.41434706,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "het Laar",
+                "houseNumber": "",
+                "postalCode": "7731BC",
+                "city": "Ommen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "4467",
+            "attributes": {
+                "name": "50",
+                "description": null,
+                "latitude": 52.50945548,
+                "longitude": 6.44412999,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Besthemeresweg",
+                "houseNumber": "",
+                "postalCode": "7731PA",
+                "city": "Ommen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "2735",
+            "attributes": {
+                "name": "51",
+                "description": null,
+                "latitude": 52.50951893,
+                "longitude": 6.46008499,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "",
+                "houseNumber": "",
+                "postalCode": "7731PA",
+                "city": "Ommen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "6646",
+            "attributes": {
+                "name": "53",
+                "description": null,
+                "latitude": 52.51762759,
+                "longitude": 6.49029439,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "",
+                "houseNumber": "3",
+                "postalCode": "7731TV",
+                "city": "Ommen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "1841",
+            "attributes": {
+                "name": "55",
+                "description": null,
+                "latitude": 52.51220307,
+                "longitude": 6.5325129,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "",
+                "houseNumber": "",
+                "postalCode": "7736PG",
+                "city": "Ommen",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "1564",
+            "attributes": {
+                "name": "67",
+                "description": null,
+                "latitude": 52.51162085,
+                "longitude": 6.56714684,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Beerzerweg",
+                "houseNumber": "",
+                "postalCode": "7692PB",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "9995",
+            "attributes": {
+                "name": "66",
+                "description": null,
+                "latitude": 52.5195861,
+                "longitude": 6.5687743,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Rheezerweg",
+                "houseNumber": "",
+                "postalCode": "7692PJ",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "6496",
+            "attributes": {
+                "name": "57",
+                "description": null,
+                "latitude": 52.52954137,
+                "longitude": 6.5591666,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Grote Esweg",
+                "houseNumber": "",
+                "postalCode": "7795DE",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "6232",
+            "attributes": {
+                "name": "58",
+                "description": null,
+                "latitude": 52.53140832,
+                "longitude": 6.56033631,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Oldemeijerweg",
+                "houseNumber": "",
+                "postalCode": "7795DB",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "9736",
+            "attributes": {
+                "name": "64",
+                "description": null,
+                "latitude": 52.54111855,
+                "longitude": 6.58342938,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "",
+                "houseNumber": "1",
+                "postalCode": "7794RK",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "9576",
+            "attributes": {
+                "name": "63",
+                "description": null,
+                "latitude": 52.54642393,
+                "longitude": 6.581406,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Startpunt Rheeze",
+                "houseNumber": "",
+                "postalCode": "7794RH",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "594326",
+            "attributes": {
+                "name": "B&B De Rheezer Kamer Thee- en Koffiehuis",
+                "description": "B&B De Rheezer Kamer Thee- en Koffiehuis is located in one of the most beautiful places in the Overijssel Vechtdal. As a cycling and nature lover you will be surprised from one surprise to another because of the picturesque landscapes that this area is rich in. Just like the Vechtdal, De Rheezer Kamer is the ideal place to relax. On the terrace you can enjoy the view over the historic village green with a real Italian Agust Coffee and delicious homemade cake. And in the former barn you will experience how peaceful you can stay in the countryside.",
+                "latitude": 52.545958,
+                "longitude": 6.583266,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": true,
+                "isJunction": false,
+                "website": "http://www.derheezerkamer.nl",
+                "phoneNumber": "+31 (0)6 50 51 08 55",
+                "email": "info@derheezerkamer.nl",
+                "street": "Rheezerbrink",
+                "houseNumber": "5",
+                "postalCode": "7794 RG",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": "http://tc.tradetracker.net/?c=14392&m=12&a=277364&u=https%3A%2F%2Fwww.trivago.nl%2F%3FiGeoDistanceItem%3D4946108"
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "60"
+                    }
+                },
+                "mainPicture": {
+                    "data": {
+                        "type": "images",
+                        "id": "50309"
+                    }
+                }
+            }
+        },
+        {
+            "type": "categories",
+            "id": "60",
+            "attributes": {
+                "name": "Bed & Breakfast",
+                "icon": 19,
+                "popup": true,
+                "defaultChecked": true,
+                "type": "POI_CATEGORY"
+            },
+            "relationships": {
+                "children": {},
+                "topLevelCategory": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1044"
+                    }
+                }
+            }
+        },
+        {
+            "type": "pois",
+            "id": "5377",
+            "attributes": {
+                "name": "31",
+                "description": null,
+                "latitude": 52.56670758,
+                "longitude": 6.60989257,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Vrëchienpad",
+                "houseNumber": "",
+                "postalCode": "7771WZ",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "6486",
+            "attributes": {
+                "name": "32",
+                "description": null,
+                "latitude": 52.56707649,
+                "longitude": 6.61333965,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Vrëchienpad",
+                "houseNumber": "",
+                "postalCode": "7771WL",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "5667",
+            "attributes": {
+                "name": "33",
+                "description": null,
+                "latitude": 52.57480661,
+                "longitude": 6.61330395,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Heemsermarsweg",
+                "houseNumber": "",
+                "postalCode": "7771BW",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "6057",
+            "attributes": {
+                "name": "19",
+                "description": null,
+                "latitude": 52.58506579,
+                "longitude": 6.62074639,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Heemsermarsweg",
+                "houseNumber": "",
+                "postalCode": "7798CB",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "4481",
+            "attributes": {
+                "name": "13",
+                "description": null,
+                "latitude": 52.61333841,
+                "longitude": 6.6510264,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "De Vaart",
+                "houseNumber": "",
+                "postalCode": "7784DE",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "605409",
+            "attributes": {
+                "name": "Granny's Barn Hadassa Hoeve",
+                "description": "Granny\\\\\\&#39;s Barn Hadassa Hoeve is a cozy tea house in Ane. This break spot is located on the edge of the Pieterpad and in the middle of beautiful green areas that are ideal for a bike ride or a walk. Settle down at Granny\\\\\\&#39;s Barn to catch your breath during an active day and enjoy one of Grandma&#39;s many teas, a cup of coffee or homemade treats such as an apple dumpling or a delicious slice of cake. It&#39;s like stepping into your own grandmother&#39;s house. In addition to sweets, you will also find ice cream, sandwiches, soup and much more to satisfy your appetite. Replenish your energy supply well, so that you can hit the road again afterwards. When the weather is nice you can take a seat on the outside terrace to enjoy the sun. At the teahouse you will also find a shop with old-fashioned sweets and nice trinkets to give as gifts.",
+                "latitude": 52.613059,
+                "longitude": 6.652092,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": true,
+                "isJunction": false,
+                "website": "http://www.hadassahoeve.nl",
+                "phoneNumber": "+31 (0)524 56 11 74 ",
+                "email": "info@grannysbarn.nl",
+                "street": "De Vaart",
+                "houseNumber": "12",
+                "postalCode": "7784 DJ",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "64"
+                    }
+                },
+                "mainPicture": {
+                    "data": {
+                        "type": "images",
+                        "id": "23778"
+                    }
+                }
+            }
+        },
+        {
+            "type": "pois",
+            "id": "6733",
+            "attributes": {
+                "name": "24",
+                "description": null,
+                "latitude": 52.61646599,
+                "longitude": 6.69587536,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "",
+                "houseNumber": "10",
+                "postalCode": "7787ER",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "3744",
+            "attributes": {
+                "name": "25",
+                "description": null,
+                "latitude": 52.62134767,
+                "longitude": 6.69984568,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Coevorderweg",
+                "houseNumber": "",
+                "postalCode": "7787EH",
+                "city": "Hardenberg",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "932717",
+            "attributes": {
+                "name": "52",
+                "description": null,
+                "latitude": 52.61257206,
+                "longitude": 6.74333542,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Zur Mühle",
+                "houseNumber": "",
+                "postalCode": "49824",
+                "city": "Laar",
+                "state": "Lower Saxony",
+                "country": "Germany",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "932713",
+            "attributes": {
+                "name": "51",
+                "description": null,
+                "latitude": 52.61033017,
+                "longitude": 6.73894013,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Vechtetalstraße",
+                "houseNumber": "",
+                "postalCode": "49824",
+                "city": "Laar",
+                "state": "Lower Saxony",
+                "country": "Germany",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "932789",
+            "attributes": {
+                "name": "86",
+                "description": null,
+                "latitude": 52.47376598,
+                "longitude": 6.97955333,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Thesingfelder Straße",
+                "houseNumber": "",
+                "postalCode": "49828",
+                "city": "Neuenhaus",
+                "state": "Lower Saxony",
+                "country": "Germany",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "pois",
+            "id": "932779",
+            "attributes": {
+                "name": "84",
+                "description": null,
+                "latitude": 52.46251624,
+                "longitude": 6.99454161,
+                "isVisible": true,
+                "isLandmark": false,
+                "isParticipant": false,
+                "isJunction": true,
+                "website": "",
+                "phoneNumber": "",
+                "email": "",
+                "street": "Kommiezendijk",
+                "houseNumber": "",
+                "postalCode": "7635LD",
+                "city": "Dinkelland",
+                "state": "Overijssel",
+                "country": "The Netherlands",
+                "bookingUrl": null
+            },
+            "relationships": {
+                "category": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1"
+                    }
+                },
+                "mainPicture": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874583",
+            "attributes": {
+                "name": "48720, Rosendahl, North Rhine-Westphalia, Germany",
+                "street": "",
+                "postalCode": "8017BV",
+                "state": "North Rhine-Westphalia",
+                "city": "Rosendahl",
+                "country": "Germany",
+                "latitude": 52.48837004,
+                "longitude": 6.07838166,
+                "index": 0
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "3591"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874584",
+            "attributes": {
+                "name": "Stationsweg, 8011EA, Zwolle, Overijssel, Nederland",
+                "street": "Stationsweg",
+                "postalCode": "8011EA",
+                "state": "Overijssel",
+                "city": "Zwolle",
+                "country": "Nederland",
+                "latitude": 52.50821913,
+                "longitude": 6.09137472,
+                "index": 1
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "8424"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874585",
+            "attributes": {
+                "name": "Holtenbroek, 8031GC, Zwolle, Overijssel, Nederland",
+                "street": "Holtenbroek",
+                "postalCode": "8031GC",
+                "state": "Overijssel",
+                "city": "Zwolle",
+                "country": "Nederland",
+                "latitude": 52.52710045,
+                "longitude": 6.07324123,
+                "index": 2
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "7744"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874586",
+            "attributes": {
+                "name": "Brinkhoekweg 7, 8034PA, Zwolle, Overijssel",
+                "street": null,
+                "postalCode": "8034PA",
+                "state": "Overijssel",
+                "city": "Zwolle",
+                "country": "Nederland",
+                "latitude": 52.54927,
+                "longitude": 6.0985,
+                "index": 3
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874587",
+            "attributes": {
+                "name": "Haersterveerweg, 8034PS, Zwolle, Overijssel, Nederland",
+                "street": "Haersterveerweg",
+                "postalCode": "8034PS",
+                "state": "Overijssel",
+                "city": "Zwolle",
+                "country": "Nederland",
+                "latitude": 52.53633132,
+                "longitude": 6.12985051,
+                "index": 4
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "7711"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874588",
+            "attributes": {
+                "name": "Kranenburgweg, 8024AD, Zwolle, Overijssel, Nederland",
+                "street": "Kranenburgweg",
+                "postalCode": "8024AD",
+                "state": "Overijssel",
+                "city": "Zwolle",
+                "country": "Nederland",
+                "latitude": 52.52808762,
+                "longitude": 6.14015989,
+                "index": 5
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "2720"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874589",
+            "attributes": {
+                "name": "Maatgravenweg, 8024ED, Zwolle, Overijssel, Nederland",
+                "street": "Maatgravenweg",
+                "postalCode": "8024ED",
+                "state": "Overijssel",
+                "city": "Zwolle",
+                "country": "Nederland",
+                "latitude": 52.52180258,
+                "longitude": 6.15042565,
+                "index": 6
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "8335"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874590",
+            "attributes": {
+                "name": "Vitens Vechterweerd, 7722KT, Dalfsen, Overijssel, Nederland",
+                "street": "Vitens Vechterweerd",
+                "postalCode": "7722KT",
+                "state": "Overijssel",
+                "city": "Dalfsen",
+                "country": "Nederland",
+                "latitude": 52.51719854,
+                "longitude": 6.19949492,
+                "index": 7
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "8022"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874591",
+            "attributes": {
+                "name": "Koepelallee 11, 7722KT, Dalfsen, Overijssel, Nederland",
+                "street": "Koepelallee",
+                "postalCode": "7722KT",
+                "state": "Overijssel",
+                "city": "Dalfsen",
+                "country": "Nederland",
+                "latitude": 52.51623259,
+                "longitude": 6.20924486,
+                "index": 8
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "8706"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874592",
+            "attributes": {
+                "name": "Poppenallee, 7721BS, Dalfsen, Overijssel, Nederland",
+                "street": "Poppenallee",
+                "postalCode": "7721BS",
+                "state": "Overijssel",
+                "city": "Dalfsen",
+                "country": "Nederland",
+                "latitude": 52.50071869,
+                "longitude": 6.24988368,
+                "index": 9
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "82"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874593",
+            "attributes": {
+                "name": "Poppenallee, 7722HA, Dalfsen, Overijssel, Nederland",
+                "street": "Poppenallee",
+                "postalCode": "7722HA",
+                "state": "Overijssel",
+                "city": "Dalfsen",
+                "country": "Nederland",
+                "latitude": 52.49987724,
+                "longitude": 6.25924849,
+                "index": 10
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "3176"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874594",
+            "attributes": {
+                "name": "Burgemeester van Bruggenplein, 7721AZ, Dalfsen, Overijssel, Nederland",
+                "street": "Burgemeester van Bruggenplein",
+                "postalCode": "7721AZ",
+                "state": "Overijssel",
+                "city": "Dalfsen",
+                "country": "Nederland",
+                "latitude": 52.50306548,
+                "longitude": 6.25957656,
+                "index": 11
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "140"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874595",
+            "attributes": {
+                "name": "Prinsenstraat 8, 7721 AJ  , Dalfsen, Overijssel, Nederland",
+                "street": "Prinsenstraat",
+                "postalCode": "7721 AJ  ",
+                "state": "Overijssel",
+                "city": "Dalfsen",
+                "country": "Nederland",
+                "latitude": 52.50367,
+                "longitude": 6.25972,
+                "index": 12
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "594176"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874596",
+            "attributes": {
+                "name": "Smidswegje, 7721CM, Dalfsen, Overijssel",
+                "street": "Smidswegje",
+                "postalCode": "7721CM",
+                "state": "Overijssel",
+                "city": "Dalfsen",
+                "country": "Nederland",
+                "latitude": 52.50575,
+                "longitude": 6.26081,
+                "index": 13
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874597",
+            "attributes": {
+                "name": "De Stokte 9, 7722VC, Dalfsen, Overijssel, Nederland",
+                "street": "De Stokte",
+                "postalCode": "7722VC",
+                "state": "Overijssel",
+                "city": "Dalfsen",
+                "country": "Nederland",
+                "latitude": 52.51523805,
+                "longitude": 6.28919351,
+                "index": 14
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "595921"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874598",
+            "attributes": {
+                "name": "Uitkijktoren de Stokte, 7722VD, Dalfsen, Overijssel, Nederland",
+                "street": "Uitkijktoren de Stokte",
+                "postalCode": "7722VD",
+                "state": "Overijssel",
+                "city": "Dalfsen",
+                "country": "Nederland",
+                "latitude": 52.51981283,
+                "longitude": 6.29859887,
+                "index": 15
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "6282"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874599",
+            "attributes": {
+                "name": "Oude Oever, 7722VE, Dalfsen, Overijssel, Nederland",
+                "street": "Oude Oever",
+                "postalCode": "7722VE",
+                "state": "Overijssel",
+                "city": "Dalfsen",
+                "country": "Nederland",
+                "latitude": 52.52463034,
+                "longitude": 6.31711784,
+                "index": 16
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "8879"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874600",
+            "attributes": {
+                "name": "Maneweg, 7722VJ, Dalfsen, Overijssel, Nederland",
+                "street": "Maneweg",
+                "postalCode": "7722VJ",
+                "state": "Overijssel",
+                "city": "Dalfsen",
+                "country": "Nederland",
+                "latitude": 52.52429837,
+                "longitude": 6.33408615,
+                "index": 17
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "7676"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874601",
+            "attributes": {
+                "name": "De Stuw, 7722VJ, Dalfsen, Overijssel, Nederland",
+                "street": "De Stuw",
+                "postalCode": "7722VJ",
+                "state": "Overijssel",
+                "city": "Dalfsen",
+                "country": "Nederland",
+                "latitude": 52.52350624,
+                "longitude": 6.33648574,
+                "index": 18
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "6184"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874602",
+            "attributes": {
+                "name": "Vilsterseweg, 7734, Ommen, Overijssel, Nederland",
+                "street": "Vilsterseweg",
+                "postalCode": "7734",
+                "state": "Overijssel",
+                "city": "Ommen",
+                "country": "Nederland",
+                "latitude": 52.51140383,
+                "longitude": 6.35266554,
+                "index": 19
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "10359"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874603",
+            "attributes": {
+                "name": "Nieuwedijk, 7731PC, Ommen, Overijssel, Nederland",
+                "street": "Nieuwedijk",
+                "postalCode": "7731PC",
+                "state": "Overijssel",
+                "city": "Ommen",
+                "country": "Nederland",
+                "latitude": 52.51095894,
+                "longitude": 6.39002871,
+                "index": 20
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "710"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874604",
+            "attributes": {
+                "name": "Oude Hammerweg 9, 8147RK, Ommen, Overijssel, Nederland",
+                "street": "Oude Hammerweg",
+                "postalCode": "8147RK",
+                "state": "Overijssel",
+                "city": "Ommen",
+                "country": "Nederland",
+                "latitude": 52.49387909,
+                "longitude": 6.40302636,
+                "index": 21
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "10823"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874605",
+            "attributes": {
+                "name": "Oude Hammerweg, 8147RK, Ommen, Overijssel, Nederland",
+                "street": "Oude Hammerweg",
+                "postalCode": "8147RK",
+                "state": "Overijssel",
+                "city": "Ommen",
+                "country": "Nederland",
+                "latitude": 52.49286686,
+                "longitude": 6.4068169,
+                "index": 22
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "4603"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874606",
+            "attributes": {
+                "name": "Bergweg, 7731AD, Ommen, Overijssel, Nederland",
+                "street": "Bergweg",
+                "postalCode": "7731AD",
+                "state": "Overijssel",
+                "city": "Ommen",
+                "country": "Nederland",
+                "latitude": 52.50010039,
+                "longitude": 6.4287366,
+                "index": 23
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "10070"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874607",
+            "attributes": {
+                "name": "Bergweg, 7731AD, Ommen, Overijssel, Nederland",
+                "street": "Bergweg",
+                "postalCode": "7731AD",
+                "state": "Overijssel",
+                "city": "Ommen",
+                "country": "Nederland",
+                "latitude": 52.50267669,
+                "longitude": 6.43217019,
+                "index": 24
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "1843"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874608",
+            "attributes": {
+                "name": "het Laar, 7731BC, Ommen, Overijssel, Nederland",
+                "street": "het Laar",
+                "postalCode": "7731BC",
+                "state": "Overijssel",
+                "city": "Ommen",
+                "country": "Nederland",
+                "latitude": 52.51590089,
+                "longitude": 6.41434706,
+                "index": 25
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "9133"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874609",
+            "attributes": {
+                "name": "Stationsweg, 7731BB, Ommen, Overijssel",
+                "street": "Stationsweg",
+                "postalCode": "7731BB",
+                "state": "Overijssel",
+                "city": "Ommen",
+                "country": "Nederland",
+                "latitude": 52.51649,
+                "longitude": 6.42292,
+                "index": 26
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874610",
+            "attributes": {
+                "name": "Besthemeresweg, 7731PA, Ommen, Overijssel, Nederland",
+                "street": "Besthemeresweg",
+                "postalCode": "7731PA",
+                "state": "Overijssel",
+                "city": "Ommen",
+                "country": "Nederland",
+                "latitude": 52.50945548,
+                "longitude": 6.44412999,
+                "index": 27
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "4467"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874611",
+            "attributes": {
+                "name": "Eerderveldweg, 7731PA, Ommen, Overijssel, Nederland",
+                "street": "Eerderveldweg",
+                "postalCode": "7731PA",
+                "state": "Overijssel",
+                "city": "Ommen",
+                "country": "Nederland",
+                "latitude": 52.50951893,
+                "longitude": 6.46008499,
+                "index": 28
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "2735"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874612",
+            "attributes": {
+                "name": "Nieuwe Hammerweg 3, 7731TV, Ommen, Overijssel, Nederland",
+                "street": "Nieuwe Hammerweg",
+                "postalCode": "7731TV",
+                "state": "Overijssel",
+                "city": "Ommen",
+                "country": "Nederland",
+                "latitude": 52.51762759,
+                "longitude": 6.49029439,
+                "index": 29
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "6646"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874613",
+            "attributes": {
+                "name": "Beerzerpoort, 7736PG, Ommen, Overijssel, Nederland",
+                "street": "Beerzerpoort",
+                "postalCode": "7736PG",
+                "state": "Overijssel",
+                "city": "Ommen",
+                "country": "Nederland",
+                "latitude": 52.51220307,
+                "longitude": 6.5325129,
+                "index": 30
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "1841"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874614",
+            "attributes": {
+                "name": "Beerzerweg, 7692PB, Hardenberg, Overijssel, Nederland",
+                "street": "Beerzerweg",
+                "postalCode": "7692PB",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.51162085,
+                "longitude": 6.56714684,
+                "index": 31
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "1564"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874615",
+            "attributes": {
+                "name": "Rheezerweg, 7692PJ, Hardenberg, Overijssel, Nederland",
+                "street": "Rheezerweg",
+                "postalCode": "7692PJ",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.5195861,
+                "longitude": 6.5687743,
+                "index": 32
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "9995"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874616",
+            "attributes": {
+                "name": "Grote Esweg, 7795DE, Hardenberg, Overijssel, Nederland",
+                "street": "Grote Esweg",
+                "postalCode": "7795DE",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.52954137,
+                "longitude": 6.5591666,
+                "index": 33
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "6496"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874617",
+            "attributes": {
+                "name": "Oldemeijerweg, 7795DB, Hardenberg, Overijssel, Nederland",
+                "street": "Oldemeijerweg",
+                "postalCode": "7795DB",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.53140832,
+                "longitude": 6.56033631,
+                "index": 34
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "6232"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874618",
+            "attributes": {
+                "name": "Marsweg 1, 7794RK, Hardenberg, Overijssel, Nederland",
+                "street": "Marsweg",
+                "postalCode": "7794RK",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.54111855,
+                "longitude": 6.58342938,
+                "index": 35
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "9736"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874619",
+            "attributes": {
+                "name": "Startpunt Rheeze, 7794RH, Hardenberg, Overijssel, Nederland",
+                "street": "Startpunt Rheeze",
+                "postalCode": "7794RH",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.54642393,
+                "longitude": 6.581406,
+                "index": 36
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "9576"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874620",
+            "attributes": {
+                "name": "Rheezerbrink 5, 7794 RG, Rheeze, Overijssel, Nederland",
+                "street": "Rheezerbrink",
+                "postalCode": "7794 RG",
+                "state": "Overijssel",
+                "city": "Rheeze",
+                "country": "Nederland",
+                "latitude": 52.54605,
+                "longitude": 6.5832,
+                "index": 37
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "594326"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874621",
+            "attributes": {
+                "name": "Vrëchienpad, 7771WZ, Hardenberg, Overijssel, Nederland",
+                "street": "Vrëchienpad",
+                "postalCode": "7771WZ",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.56670758,
+                "longitude": 6.60989257,
+                "index": 38
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "5377"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874622",
+            "attributes": {
+                "name": "Vrëchienpad, 7771WL, Hardenberg, Overijssel, Nederland",
+                "street": "Vrëchienpad",
+                "postalCode": "7771WL",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.56707649,
+                "longitude": 6.61333965,
+                "index": 39
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "6486"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874623",
+            "attributes": {
+                "name": "Heemsermarsweg, 7771BW, Hardenberg, Overijssel, Nederland",
+                "street": "Heemsermarsweg",
+                "postalCode": "7771BW",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.57480661,
+                "longitude": 6.61330395,
+                "index": 40
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "5667"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874624",
+            "attributes": {
+                "name": "Blanckvoortallee 2, 7773AH, Hardenberg, Overijssel",
+                "street": "Het Heemse",
+                "postalCode": "7773AH",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.57671,
+                "longitude": 6.60066,
+                "index": 41
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874625",
+            "attributes": {
+                "name": "Heemsermarsweg, 7798CB, Hardenberg, Overijssel, Nederland",
+                "street": "Heemsermarsweg",
+                "postalCode": "7798CB",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.58506579,
+                "longitude": 6.62074639,
+                "index": 42
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "6057"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874626",
+            "attributes": {
+                "name": "De Vaart, 7784DE, Hardenberg, Overijssel, Nederland",
+                "street": "De Vaart",
+                "postalCode": "7784DE",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.61333841,
+                "longitude": 6.6510264,
+                "index": 43
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "4481"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874627",
+            "attributes": {
+                "name": "De Vaart 12, 7784 DJ, Ane, Overijssel, Nederland",
+                "street": "De Vaart",
+                "postalCode": "7784 DJ",
+                "state": "Overijssel",
+                "city": "Ane",
+                "country": "Nederland",
+                "latitude": 52.61332,
+                "longitude": 6.65214,
+                "index": 44
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "605409"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874628",
+            "attributes": {
+                "name": "Holthemereschweg 10, 7787ER, Hardenberg, Overijssel, Nederland",
+                "street": "Holthemereschweg",
+                "postalCode": "7787ER",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.61646599,
+                "longitude": 6.69587536,
+                "index": 45
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "6733"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874629",
+            "attributes": {
+                "name": "Coevorderweg, 7787EH, Hardenberg, Overijssel, Nederland",
+                "street": "Coevorderweg",
+                "postalCode": "7787EH",
+                "state": "Overijssel",
+                "city": "Hardenberg",
+                "country": "Nederland",
+                "latitude": 52.62134767,
+                "longitude": 6.69984568,
+                "index": 46
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "3744"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874630",
+            "attributes": {
+                "name": "Zur Mühle, 49824, Laar, Nedersaksen, Duitsland",
+                "street": "Zur Mühle",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Laar",
+                "country": "Duitsland",
+                "latitude": 52.61257206,
+                "longitude": 6.74333542,
+                "index": 47
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "932717"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874631",
+            "attributes": {
+                "name": "Vechtetalstraße, 49824, Laar, Nedersaksen, Duitsland",
+                "street": "Vechtetalstraße",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Laar",
+                "country": "Duitsland",
+                "latitude": 52.61033017,
+                "longitude": 6.73894013,
+                "index": 48
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "932713"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874632",
+            "attributes": {
+                "name": "Schoapdiek, 49824, Laar, Nedersaksen",
+                "street": "Schoapdiek",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Laar",
+                "country": "Duitsland",
+                "latitude": 52.60419,
+                "longitude": 6.77317,
+                "index": 49
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874633",
+            "attributes": {
+                "name": "Schoapdiek, 49824, Laar, Nedersaksen",
+                "street": "Schoapdiek",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Laar",
+                "country": "Duitsland",
+                "latitude": 52.60679,
+                "longitude": 6.7731,
+                "index": 50
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874634",
+            "attributes": {
+                "name": "Ringstraße, 49824, Laar, Nedersaksen",
+                "street": "Ringstraße",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Laar",
+                "country": "Duitsland",
+                "latitude": 52.60182,
+                "longitude": 6.79355,
+                "index": 51
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874635",
+            "attributes": {
+                "name": "Echteler Straße, 49824, Emlichheim, Nedersaksen",
+                "street": "Echteler Straße",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Emlichheim",
+                "country": "Duitsland",
+                "latitude": 52.60326,
+                "longitude": 6.79834,
+                "index": 52
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874636",
+            "attributes": {
+                "name": "N52.6003, E6.8466",
+                "street": null,
+                "postalCode": null,
+                "state": null,
+                "city": null,
+                "country": null,
+                "latitude": 52.6003,
+                "longitude": 6.84664,
+                "index": 53
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874637",
+            "attributes": {
+                "name": "Dorfstraße 32, 49824, Emlichheim, Nedersaksen",
+                "street": "Janitschke",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Emlichheim",
+                "country": "Duitsland",
+                "latitude": 52.60697,
+                "longitude": 6.85243,
+                "index": 54
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874638",
+            "attributes": {
+                "name": "Oelstraße, 49824, Emlichheim, Nedersaksen",
+                "street": "Oelstraße",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Emlichheim",
+                "country": "Duitsland",
+                "latitude": 52.62022,
+                "longitude": 6.85644,
+                "index": 55
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874639",
+            "attributes": {
+                "name": "Birkhahnweg, 49824, Ringe, Nedersaksen",
+                "street": "Birkhahnweg",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Ringe",
+                "country": "Duitsland",
+                "latitude": 52.61096,
+                "longitude": 6.94388,
+                "index": 56
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874640",
+            "attributes": {
+                "name": "Brookdiek, 49824, Ringe, Nedersaksen",
+                "street": "Brookdiek",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Ringe",
+                "country": "Duitsland",
+                "latitude": 52.60787,
+                "longitude": 6.95916,
+                "index": 57
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874641",
+            "attributes": {
+                "name": "Großringer Straße, 49824, Ringe, Nedersaksen",
+                "street": "Großringer Straße",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Ringe",
+                "country": "Duitsland",
+                "latitude": 52.61267,
+                "longitude": 6.9681,
+                "index": 58
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874642",
+            "attributes": {
+                "name": "Hinrich-Wilhelm-Kopf-Straße, 49824, Ringe, Nedersaksen",
+                "street": "Hinrich-Wilhelm-Kopf-Straße",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Ringe",
+                "country": "Duitsland",
+                "latitude": 52.61164,
+                "longitude": 6.96975,
+                "index": 59
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874643",
+            "attributes": {
+                "name": "Ernst-Julius-Straße, 49824, Ringe, Nedersaksen",
+                "street": "Ernst-Julius-Straße",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Ringe",
+                "country": "Duitsland",
+                "latitude": 52.61673,
+                "longitude": 6.97536,
+                "index": 60
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874644",
+            "attributes": {
+                "name": "Männeäckerweg, 49824, Ringe, Nedersaksen",
+                "street": "Männeäckerweg",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Ringe",
+                "country": "Duitsland",
+                "latitude": 52.61751,
+                "longitude": 6.98345,
+                "index": 61
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874645",
+            "attributes": {
+                "name": "Gottesacker der Herrnhuter Brüdergemeinde, 49824, Ringe, Nedersaksen",
+                "street": "Gottesacker der Herrnhuter Brüdergemeinde",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Ringe",
+                "country": "Duitsland",
+                "latitude": 52.61249,
+                "longitude": 6.98287,
+                "index": 62
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874646",
+            "attributes": {
+                "name": "Vennweg, 49824, Ringe, Nedersaksen",
+                "street": "Vennweg",
+                "postalCode": "49824",
+                "state": "Nedersaksen",
+                "city": "Ringe",
+                "country": "Duitsland",
+                "latitude": 52.61129,
+                "longitude": 6.99527,
+                "index": 63
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874647",
+            "attributes": {
+                "name": "N52.6048, E6.9905",
+                "street": null,
+                "postalCode": null,
+                "state": null,
+                "city": null,
+                "country": null,
+                "latitude": 52.60476,
+                "longitude": 6.9905,
+                "index": 64
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874648",
+            "attributes": {
+                "name": "N52.5983, E6.998",
+                "street": null,
+                "postalCode": null,
+                "state": null,
+                "city": null,
+                "country": null,
+                "latitude": 52.59828,
+                "longitude": 6.998,
+                "index": 65
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874649",
+            "attributes": {
+                "name": "Kunstwegen Moorweg, 49846, Hoogstede, Nedersaksen",
+                "street": "Kunstwegen Moorweg",
+                "postalCode": "49846",
+                "state": "Nedersaksen",
+                "city": "Hoogstede",
+                "country": "Duitsland",
+                "latitude": 52.59437,
+                "longitude": 7.00333,
+                "index": 66
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874650",
+            "attributes": {
+                "name": "N52.5796, E6.9644",
+                "street": "Sunnerkampstege",
+                "postalCode": "49846",
+                "state": "Nedersaksen",
+                "city": "Hoogstede",
+                "country": "Duitsland",
+                "latitude": 52.57963,
+                "longitude": 6.96438,
+                "index": 67
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874651",
+            "attributes": {
+                "name": "Imbiss Mülstegen, 49846, Hoogstede, Nedersaksen",
+                "street": "Imbiss Mülstegen",
+                "postalCode": "49846",
+                "state": "Nedersaksen",
+                "city": "Hoogstede",
+                "country": "Duitsland",
+                "latitude": 52.57625,
+                "longitude": 6.94657,
+                "index": 68
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874652",
+            "attributes": {
+                "name": "Bergstraße 34, 49846, Hoogstede, Nedersaksen",
+                "street": null,
+                "postalCode": "49846",
+                "state": "Nedersaksen",
+                "city": "Hoogstede",
+                "country": "Duitsland",
+                "latitude": 52.57597,
+                "longitude": 6.94242,
+                "index": 69
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874653",
+            "attributes": {
+                "name": "Bahnhofstraße, 49846, Hoogstede, Nedersaksen",
+                "street": "Bahnhofstraße",
+                "postalCode": "49846",
+                "state": "Nedersaksen",
+                "city": "Hoogstede",
+                "country": "Duitsland",
+                "latitude": 52.57348,
+                "longitude": 6.94642,
+                "index": 70
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874654",
+            "attributes": {
+                "name": "Grüntalstraße 4a, 49846, Hoogstede, Nedersaksen",
+                "street": null,
+                "postalCode": "49846",
+                "state": "Nedersaksen",
+                "city": "Hoogstede",
+                "country": "Duitsland",
+                "latitude": 52.57169,
+                "longitude": 6.94178,
+                "index": 71
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874655",
+            "attributes": {
+                "name": "Lägen Diek 17, 49846, Hoogstede, Nedersaksen",
+                "street": null,
+                "postalCode": "49846",
+                "state": "Nedersaksen",
+                "city": "Hoogstede",
+                "country": "Duitsland",
+                "latitude": 52.55667,
+                "longitude": 6.94108,
+                "index": 72
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874656",
+            "attributes": {
+                "name": "Grüner Weg, 49843, Gölenkamp, Nedersaksen",
+                "street": "Grüner Weg",
+                "postalCode": "49843",
+                "state": "Nedersaksen",
+                "city": "Gölenkamp",
+                "country": "Duitsland",
+                "latitude": 52.54614,
+                "longitude": 6.93775,
+                "index": 73
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874657",
+            "attributes": {
+                "name": "Escher Straße, 49828, Esche, Nedersaksen",
+                "street": "Escher Straße",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Esche",
+                "country": "Duitsland",
+                "latitude": 52.54208,
+                "longitude": 6.9422,
+                "index": 74
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874658",
+            "attributes": {
+                "name": "Vechteweg, 49843, Gölenkamp, Nedersaksen",
+                "street": "Vechteweg",
+                "postalCode": "49843",
+                "state": "Nedersaksen",
+                "city": "Gölenkamp",
+                "country": "Duitsland",
+                "latitude": 52.54147,
+                "longitude": 6.94837,
+                "index": 75
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874659",
+            "attributes": {
+                "name": "Rasthütte \"Vechteblick\", 49828, Esche, Nedersaksen",
+                "street": "Rasthütte \"Vechteblick\"",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Esche",
+                "country": "Duitsland",
+                "latitude": 52.54067,
+                "longitude": 6.95573,
+                "index": 76
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874660",
+            "attributes": {
+                "name": "Zur Heide, 49828, Esche, Nedersaksen",
+                "street": "Zur Heide",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Esche",
+                "country": "Duitsland",
+                "latitude": 52.53155,
+                "longitude": 6.96329,
+                "index": 77
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874661",
+            "attributes": {
+                "name": "Zur Vechte, 49828, Esche, Nedersaksen",
+                "street": "Zur Vechte",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Esche",
+                "country": "Duitsland",
+                "latitude": 52.52276,
+                "longitude": 6.96162,
+                "index": 78
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874662",
+            "attributes": {
+                "name": "Vor den Sandgruben, 49843, Gölenkamp, Nedersaksen",
+                "street": "Vor den Sandgruben",
+                "postalCode": "49843",
+                "state": "Nedersaksen",
+                "city": "Gölenkamp",
+                "country": "Duitsland",
+                "latitude": 52.5183,
+                "longitude": 6.93795,
+                "index": 79
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874663",
+            "attributes": {
+                "name": "Hauptstraße, 49843, Gölenkamp, Nedersaksen",
+                "street": "Hauptstraße",
+                "postalCode": "49843",
+                "state": "Nedersaksen",
+                "city": "Gölenkamp",
+                "country": "Duitsland",
+                "latitude": 52.51498,
+                "longitude": 6.93871,
+                "index": 80
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874664",
+            "attributes": {
+                "name": "Hauptstraße, 49843, Gölenkamp, Nedersaksen",
+                "street": "Hauptstraße",
+                "postalCode": "49843",
+                "state": "Nedersaksen",
+                "city": "Gölenkamp",
+                "country": "Duitsland",
+                "latitude": 52.5097,
+                "longitude": 6.91526,
+                "index": 81
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874665",
+            "attributes": {
+                "name": "Am Spöllberg, 49843, Gölenkamp, Nedersaksen",
+                "street": "Am Spöllberg",
+                "postalCode": "49843",
+                "state": "Nedersaksen",
+                "city": "Gölenkamp",
+                "country": "Duitsland",
+                "latitude": 52.50566,
+                "longitude": 6.9146,
+                "index": 82
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874666",
+            "attributes": {
+                "name": "Am Spöllberg, 49828, Neuenhaus, Nedersaksen",
+                "street": "Am Spöllberg",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.49866,
+                "longitude": 6.92088,
+                "index": 83
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874667",
+            "attributes": {
+                "name": "Hoffweg, 49828, Neuenhaus, Nedersaksen",
+                "street": "Hoffweg",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.49774,
+                "longitude": 6.92648,
+                "index": 84
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874668",
+            "attributes": {
+                "name": "Gölenkamper Straße, 49828, Neuenhaus, Nedersaksen",
+                "street": "Gölenkamper Straße",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.49957,
+                "longitude": 6.93605,
+                "index": 85
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874669",
+            "attributes": {
+                "name": "Gölenkamper Straße, 49828, Neuenhaus, Nedersaksen",
+                "street": "Gölenkamper Straße",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.49711,
+                "longitude": 6.9375,
+                "index": 86
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874670",
+            "attributes": {
+                "name": "Epmannssteege, 49828, Neuenhaus, Nedersaksen",
+                "street": "Epmannssteege",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.49781,
+                "longitude": 6.93965,
+                "index": 87
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874671",
+            "attributes": {
+                "name": "Haardiek, 49828, Neuenhaus, Nedersaksen",
+                "street": "Haardiek",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.49608,
+                "longitude": 6.94121,
+                "index": 88
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874672",
+            "attributes": {
+                "name": "Soeker Weg 3, 49828, Neuenhaus, Nedersaksen",
+                "street": null,
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.49302,
+                "longitude": 6.94054,
+                "index": 89
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874673",
+            "attributes": {
+                "name": "Markt, 49828, Neuenhaus, Nedersaksen",
+                "street": "Markt",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.49771,
+                "longitude": 6.96662,
+                "index": 90
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874674",
+            "attributes": {
+                "name": "Hauptstraße, 49828, Neuenhaus, Nedersaksen",
+                "street": "Hauptstraße",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.49615,
+                "longitude": 6.97168,
+                "index": 91
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874675",
+            "attributes": {
+                "name": "Thesingfelder Straße, 49828, Neuenhaus, Nedersaksen",
+                "street": "Thesingfelder Straße",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.48782,
+                "longitude": 6.97727,
+                "index": 92
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874676",
+            "attributes": {
+                "name": "Thesingfelder Straße, 49828, Neuenhaus, Nedersaksen",
+                "street": "Thesingfelder Straße",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.4759,
+                "longitude": 6.9785,
+                "index": 93
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874677",
+            "attributes": {
+                "name": "Thesingfelder Straße, 49828, Neuenhaus, Nedersaksen, Duitsland",
+                "street": "Thesingfelder Straße",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.47377,
+                "longitude": 6.97957,
+                "index": 94
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "932789"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874678",
+            "attributes": {
+                "name": "Schutzhütte, 49828, Neuenhaus, Nedersaksen",
+                "street": "Schutzhütte",
+                "postalCode": "49828",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.46965,
+                "longitude": 6.98814,
+                "index": 95
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874679",
+            "attributes": {
+                "name": "Kommiezendijk, 7635LD, Dinkelland, Overijssel, Nederland",
+                "street": "Kommiezendijk",
+                "postalCode": "7635LD",
+                "state": "Overijssel",
+                "city": "Dinkelland",
+                "country": "Nederland",
+                "latitude": 52.4625,
+                "longitude": 6.99454,
+                "index": 96
+            },
+            "relationships": {
+                "poi": {
+                    "data": {
+                        "type": "pois",
+                        "id": "932779"
+                    }
+                }
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874680",
+            "attributes": {
+                "name": "N52.4636, E6.9984",
+                "street": null,
+                "postalCode": null,
+                "state": null,
+                "city": null,
+                "country": null,
+                "latitude": 52.46358,
+                "longitude": 6.99836,
+                "index": 97
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874681",
+            "attributes": {
+                "name": "Frensdorfer Straße, 48527, Neuenhaus, Nedersaksen",
+                "street": "Frensdorfer Straße",
+                "postalCode": "48527",
+                "state": "Nedersaksen",
+                "city": "Neuenhaus",
+                "country": "Duitsland",
+                "latitude": 52.46713,
+                "longitude": 7.01117,
+                "index": 98
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874682",
+            "attributes": {
+                "name": "Resum, 48527, Nordhorn, Nedersaksen",
+                "street": "Resum",
+                "postalCode": "48527",
+                "state": "Nedersaksen",
+                "city": "Nordhorn",
+                "country": "Duitsland",
+                "latitude": 52.4573,
+                "longitude": 7.01347,
+                "index": 99
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874683",
+            "attributes": {
+                "name": "Kohlandweg 9, 48527, Nordhorn, Nedersaksen",
+                "street": null,
+                "postalCode": "48527",
+                "state": "Nedersaksen",
+                "city": "Nordhorn",
+                "country": "Duitsland",
+                "latitude": 52.45464,
+                "longitude": 7.04269,
+                "index": 100
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874684",
+            "attributes": {
+                "name": "van-Delden-Straße, 48529, Nordhorn, Nedersaksen",
+                "street": "van-Delden-Straße",
+                "postalCode": "48529",
+                "state": "Nedersaksen",
+                "city": "Nordhorn",
+                "country": "Duitsland",
+                "latitude": 52.43407,
+                "longitude": 7.06352,
+                "index": 101
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874685",
+            "attributes": {
+                "name": "Verbindungsschleuse, 48529, Nordhorn, Nedersaksen",
+                "street": "Verbindungsschleuse",
+                "postalCode": "48529",
+                "state": "Nedersaksen",
+                "city": "Nordhorn",
+                "country": "Duitsland",
+                "latitude": 52.43462,
+                "longitude": 7.07697,
+                "index": 102
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874686",
+            "attributes": {
+                "name": "Frensdorfer Ring, 48529, Nordhorn, Nedersaksen",
+                "street": "Frensdorfer Ring",
+                "postalCode": "48529",
+                "state": "Nedersaksen",
+                "city": "Nordhorn",
+                "country": "Duitsland",
+                "latitude": 52.42899,
+                "longitude": 7.07776,
+                "index": 103
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874687",
+            "attributes": {
+                "name": "Osttangente, 48531, Nordhorn, Nedersaksen",
+                "street": "Osttangente",
+                "postalCode": "48531",
+                "state": "Nedersaksen",
+                "city": "Nordhorn",
+                "country": "Duitsland",
+                "latitude": 52.42702,
+                "longitude": 7.08551,
+                "index": 104
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874688",
+            "attributes": {
+                "name": "Kolonialwarenladen, 48531, Nordhorn, Nedersaksen",
+                "street": "Kolonialwarenladen",
+                "postalCode": "48531",
+                "state": "Nedersaksen",
+                "city": "Nordhorn",
+                "country": "Duitsland",
+                "latitude": 52.42709,
+                "longitude": 7.09039,
+                "index": 105
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874689",
+            "attributes": {
+                "name": "Wehrweg, 48531, Nordhorn, Nedersaksen",
+                "street": "Wehrweg",
+                "postalCode": "48531",
+                "state": "Nedersaksen",
+                "city": "Nordhorn",
+                "country": "Duitsland",
+                "latitude": 52.42147,
+                "longitude": 7.09869,
+                "index": 106
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874690",
+            "attributes": {
+                "name": "Tillenberger Weg, 48531, Nordhorn, Nedersaksen",
+                "street": "Tillenberger Weg",
+                "postalCode": "48531",
+                "state": "Nedersaksen",
+                "city": "Nordhorn",
+                "country": "Duitsland",
+                "latitude": 52.41564,
+                "longitude": 7.1101,
+                "index": 107
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874691",
+            "attributes": {
+                "name": "Garfschafter VR-Bank, 48531, Nordhorn, Nedersaksen",
+                "street": "Garfschafter VR-Bank",
+                "postalCode": "48531",
+                "state": "Nedersaksen",
+                "city": "Nordhorn",
+                "country": "Duitsland",
+                "latitude": 52.39715,
+                "longitude": 7.11584,
+                "index": 108
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874692",
+            "attributes": {
+                "name": "N52.3852, E7.1364",
+                "street": null,
+                "postalCode": null,
+                "state": null,
+                "city": null,
+                "country": null,
+                "latitude": 52.38517,
+                "longitude": 7.13639,
+                "index": 109
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874693",
+            "attributes": {
+                "name": "Hestrup, Nedersaksen",
+                "street": null,
+                "postalCode": null,
+                "state": "Nedersaksen",
+                "city": "Hestrup",
+                "country": "Duitsland",
+                "latitude": 52.3825,
+                "longitude": 7.14062,
+                "index": 110
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874694",
+            "attributes": {
+                "name": "Grüner Weg, 48531, Nordhorn, Nedersaksen",
+                "street": "Grüner Weg",
+                "postalCode": "48531",
+                "state": "Nedersaksen",
+                "city": "Nordhorn",
+                "country": "Duitsland",
+                "latitude": 52.38656,
+                "longitude": 7.149,
+                "index": 111
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874695",
+            "attributes": {
+                "name": "undefined, 48465, Engden, Nedersaksen",
+                "street": null,
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Engden",
+                "country": "Duitsland",
+                "latitude": 52.39192,
+                "longitude": 7.15553,
+                "index": 112
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874696",
+            "attributes": {
+                "name": "Nordhorner Straße, 48465, Engden, Nedersaksen",
+                "street": "Nordhorner Straße",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Engden",
+                "country": "Duitsland",
+                "latitude": 52.39005,
+                "longitude": 7.16514,
+                "index": 113
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874697",
+            "attributes": {
+                "name": "Dorfstraße, 48465, Engden, Nedersaksen",
+                "street": "Dorfstraße",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Engden",
+                "country": "Duitsland",
+                "latitude": 52.39134,
+                "longitude": 7.17872,
+                "index": 114
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874698",
+            "attributes": {
+                "name": "Rundweg, 48465, Engden, Nedersaksen",
+                "street": "Rundweg",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Engden",
+                "country": "Duitsland",
+                "latitude": 52.38001,
+                "longitude": 7.19452,
+                "index": 115
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874699",
+            "attributes": {
+                "name": "N52.3731, E7.1797",
+                "street": "Vechtetalweg",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Isterberg",
+                "country": "Duitsland",
+                "latitude": 52.37306,
+                "longitude": 7.17974,
+                "index": 116
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874700",
+            "attributes": {
+                "name": "Schutzhütte, 48465, Isterberg, Nedersaksen",
+                "street": "Schutzhütte",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Isterberg",
+                "country": "Duitsland",
+                "latitude": 52.36704,
+                "longitude": 7.17481,
+                "index": 117
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874701",
+            "attributes": {
+                "name": "Alter Postdamm, 48465, Quendorf, Nedersaksen",
+                "street": "Alter Postdamm",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Quendorf",
+                "country": "Duitsland",
+                "latitude": 52.34467,
+                "longitude": 7.17069,
+                "index": 118
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874702",
+            "attributes": {
+                "name": "undefined, 48465, Quendorf, Nedersaksen",
+                "street": null,
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Quendorf",
+                "country": "Duitsland",
+                "latitude": 52.34288,
+                "longitude": 7.17927,
+                "index": 119
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874703",
+            "attributes": {
+                "name": "Schulstraße, 48465, Quendorf, Nedersaksen",
+                "street": "Schulstraße",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Quendorf",
+                "country": "Duitsland",
+                "latitude": 52.33878,
+                "longitude": 7.18835,
+                "index": 120
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874704",
+            "attributes": {
+                "name": "Schüttorfer Straße, 48465, Quendorf, Nedersaksen",
+                "street": "Schüttorfer Straße",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Quendorf",
+                "country": "Duitsland",
+                "latitude": 52.34258,
+                "longitude": 7.19657,
+                "index": 121
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874705",
+            "attributes": {
+                "name": "Am Vechtetal, 48465, Quendorf, Nedersaksen",
+                "street": "Am Vechtetal",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Quendorf",
+                "country": "Duitsland",
+                "latitude": 52.33822,
+                "longitude": 7.2076,
+                "index": 122
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874706",
+            "attributes": {
+                "name": "Am Vechtetal, 48465, Quendorf, Nedersaksen",
+                "street": "Am Vechtetal",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Quendorf",
+                "country": "Duitsland",
+                "latitude": 52.33662,
+                "longitude": 7.20653,
+                "index": 123
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874707",
+            "attributes": {
+                "name": "undefined, 48465, Schüttorf, Nedersaksen",
+                "street": null,
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Schüttorf",
+                "country": "Duitsland",
+                "latitude": 52.32371,
+                "longitude": 7.21945,
+                "index": 124
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874708",
+            "attributes": {
+                "name": "Zurück-gerichtet, 48465, Schüttorf, Nedersaksen",
+                "street": "Zurück-gerichtet",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Schüttorf",
+                "country": "Duitsland",
+                "latitude": 52.3195,
+                "longitude": 7.22475,
+                "index": 125
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874709",
+            "attributes": {
+                "name": "Vechtetal, 48465, Samern, Nedersaksen",
+                "street": "Vechtetal",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Samern",
+                "country": "Duitsland",
+                "latitude": 52.31421,
+                "longitude": 7.24126,
+                "index": 126
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874710",
+            "attributes": {
+                "name": "Rheiner Damm, 48465, Samern, Nedersaksen",
+                "street": "Rheiner Damm",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Samern",
+                "country": "Duitsland",
+                "latitude": 52.31122,
+                "longitude": 7.2624,
+                "index": 127
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874711",
+            "attributes": {
+                "name": "Middendorf, 48465, Samern, Nedersaksen",
+                "street": "Middendorf",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Samern",
+                "country": "Duitsland",
+                "latitude": 52.30059,
+                "longitude": 7.25539,
+                "index": 128
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874712",
+            "attributes": {
+                "name": "Am Esch, 48465, Samern, Nedersaksen",
+                "street": "Am Esch",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Samern",
+                "country": "Duitsland",
+                "latitude": 52.29404,
+                "longitude": 7.28052,
+                "index": 129
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874713",
+            "attributes": {
+                "name": "Haddorfer Straße, 48465, Ohne, Nedersaksen",
+                "street": "Haddorfer Straße",
+                "postalCode": "48465",
+                "state": "Nedersaksen",
+                "city": "Ohne",
+                "country": "Duitsland",
+                "latitude": 52.27493,
+                "longitude": 7.28836,
+                "index": 130
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874714",
+            "attributes": {
+                "name": "Haddorf 56, 48493, Wettringen, Noordrijn-Westfalen",
+                "street": "Haddorfer Seen",
+                "postalCode": "48493",
+                "state": "Noordrijn-Westfalen",
+                "city": "Wettringen",
+                "country": "Duitsland",
+                "latitude": 52.27546,
+                "longitude": 7.32495,
+                "index": 131
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874715",
+            "attributes": {
+                "name": "Haddorf, 48493, Wettringen, Noordrijn-Westfalen",
+                "street": "Haddorf",
+                "postalCode": "48493",
+                "state": "Noordrijn-Westfalen",
+                "city": "Wettringen",
+                "country": "Duitsland",
+                "latitude": 52.25661,
+                "longitude": 7.3217,
+                "index": 132
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874716",
+            "attributes": {
+                "name": "undefined, 48493, Wettringen, Noordrijn-Westfalen",
+                "street": null,
+                "postalCode": "48493",
+                "state": "Noordrijn-Westfalen",
+                "city": "Wettringen",
+                "country": "Duitsland",
+                "latitude": 52.25058,
+                "longitude": 7.31718,
+                "index": 133
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874717",
+            "attributes": {
+                "name": "Schraer-Pels, 48493, Wettringen, Noordrijn-Westfalen",
+                "street": "Schraer-Pels",
+                "postalCode": "48493",
+                "state": "Noordrijn-Westfalen",
+                "city": "Wettringen",
+                "country": "Duitsland",
+                "latitude": 52.24026,
+                "longitude": 7.30979,
+                "index": 134
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874718",
+            "attributes": {
+                "name": "Andorf 3, 48493, Wettringen, Noordrijn-Westfalen",
+                "street": null,
+                "postalCode": "48493",
+                "state": "Noordrijn-Westfalen",
+                "city": "Wettringen",
+                "country": "Duitsland",
+                "latitude": 52.2175,
+                "longitude": 7.32238,
+                "index": 135
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874719",
+            "attributes": {
+                "name": "Händelstraße 14a, 48493, Wettringen, Noordrijn-Westfalen",
+                "street": null,
+                "postalCode": "48493",
+                "state": "Noordrijn-Westfalen",
+                "city": "Wettringen",
+                "country": "Duitsland",
+                "latitude": 52.21351,
+                "longitude": 7.32446,
+                "index": 136
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874720",
+            "attributes": {
+                "name": "Kleideiter, 48493, Wettringen, Noordrijn-Westfalen",
+                "street": "Kleideiter",
+                "postalCode": "48493",
+                "state": "Noordrijn-Westfalen",
+                "city": "Wettringen",
+                "country": "Duitsland",
+                "latitude": 52.20434,
+                "longitude": 7.29023,
+                "index": 137
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874721",
+            "attributes": {
+                "name": "Schweringhook 18, 48607, Ochtrup, Noordrijn-Westfalen",
+                "street": null,
+                "postalCode": "48607",
+                "state": "Noordrijn-Westfalen",
+                "city": "Ochtrup",
+                "country": "Duitsland",
+                "latitude": 52.20244,
+                "longitude": 7.28622,
+                "index": 138
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874722",
+            "attributes": {
+                "name": "Von-Bucholtz-Straße 2, 48607, Ochtrup, Noordrijn-Westfalen",
+                "street": null,
+                "postalCode": "48607",
+                "state": "Noordrijn-Westfalen",
+                "city": "Ochtrup",
+                "country": "Duitsland",
+                "latitude": 52.20354,
+                "longitude": 7.25652,
+                "index": 139
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874723",
+            "attributes": {
+                "name": "Vechtestraße, 48607, Ochtrup, Noordrijn-Westfalen",
+                "street": "Vechtestraße",
+                "postalCode": "48607",
+                "state": "Noordrijn-Westfalen",
+                "city": "Ochtrup",
+                "country": "Duitsland",
+                "latitude": 52.20173,
+                "longitude": 7.25429,
+                "index": 140
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874724",
+            "attributes": {
+                "name": "Eichendorffallee, 48607, Ochtrup, Noordrijn-Westfalen",
+                "street": "Eichendorffallee",
+                "postalCode": "48607",
+                "state": "Noordrijn-Westfalen",
+                "city": "Ochtrup",
+                "country": "Duitsland",
+                "latitude": 52.19747,
+                "longitude": 7.23872,
+                "index": 141
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874725",
+            "attributes": {
+                "name": "Brookkamp 2, 48607, Ochtrup, Noordrijn-Westfalen",
+                "street": null,
+                "postalCode": "48607",
+                "state": "Noordrijn-Westfalen",
+                "city": "Ochtrup",
+                "country": "Duitsland",
+                "latitude": 52.19512,
+                "longitude": 7.23616,
+                "index": 142
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874726",
+            "attributes": {
+                "name": "N52.1895, E7.233",
+                "street": null,
+                "postalCode": null,
+                "state": null,
+                "city": null,
+                "country": null,
+                "latitude": 52.18951,
+                "longitude": 7.23296,
+                "index": 143
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874727",
+            "attributes": {
+                "name": "Bertha Jordaan-van Heek Straße, 48607, Ochtrup, Noordrijn-Westfalen",
+                "street": "Bertha Jordaan-van Heek Straße",
+                "postalCode": "48607",
+                "state": "Noordrijn-Westfalen",
+                "city": "Ochtrup",
+                "country": "Duitsland",
+                "latitude": 52.19035,
+                "longitude": 7.25016,
+                "index": 144
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874728",
+            "attributes": {
+                "name": "Welbergener Damm, 48607, Ochtrup, Noordrijn-Westfalen",
+                "street": "Welbergener Damm",
+                "postalCode": "48607",
+                "state": "Noordrijn-Westfalen",
+                "city": "Ochtrup",
+                "country": "Duitsland",
+                "latitude": 52.18098,
+                "longitude": 7.24331,
+                "index": 145
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874729",
+            "attributes": {
+                "name": "undefined, 48629, Metelen, Noordrijn-Westfalen",
+                "street": null,
+                "postalCode": "48629",
+                "state": "Noordrijn-Westfalen",
+                "city": "Metelen",
+                "country": "Duitsland",
+                "latitude": 52.16479,
+                "longitude": 7.23357,
+                "index": 146
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874730",
+            "attributes": {
+                "name": "Welbergener Damm 18, 48629, Metelen, Noordrijn-Westfalen",
+                "street": null,
+                "postalCode": "48629",
+                "state": "Noordrijn-Westfalen",
+                "city": "Metelen",
+                "country": "Duitsland",
+                "latitude": 52.16559,
+                "longitude": 7.22697,
+                "index": 147
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874731",
+            "attributes": {
+                "name": "undefined, 48629, Metelen, Noordrijn-Westfalen",
+                "street": null,
+                "postalCode": "48629",
+                "state": "Noordrijn-Westfalen",
+                "city": "Metelen",
+                "country": "Duitsland",
+                "latitude": 52.16149,
+                "longitude": 7.2145,
+                "index": 148
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874732",
+            "attributes": {
+                "name": "Neutor 6, 48629, Metelen, Noordrijn-Westfalen",
+                "street": null,
+                "postalCode": "48629",
+                "state": "Noordrijn-Westfalen",
+                "city": "Metelen",
+                "country": "Duitsland",
+                "latitude": 52.14374,
+                "longitude": 7.21328,
+                "index": 149
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874733",
+            "attributes": {
+                "name": "Walkenmühlenweg, 48629, Metelen, Noordrijn-Westfalen",
+                "street": "Walkenmühlenweg",
+                "postalCode": "48629",
+                "state": "Noordrijn-Westfalen",
+                "city": "Metelen",
+                "country": "Duitsland",
+                "latitude": 52.1348,
+                "longitude": 7.22105,
+                "index": 150
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874734",
+            "attributes": {
+                "name": "N52.1303, E7.2256",
+                "street": null,
+                "postalCode": "48629",
+                "state": "Noord-Rijnland-Westfalen",
+                "city": "Metelen",
+                "country": "Duitsland",
+                "latitude": 52.13031,
+                "longitude": 7.22556,
+                "index": 151
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874735",
+            "attributes": {
+                "name": "Haverbeck 18, 48624, Schöppingen, Noordrijn-Westfalen",
+                "street": null,
+                "postalCode": "48624",
+                "state": "Noordrijn-Westfalen",
+                "city": "Schöppingen",
+                "country": "Duitsland",
+                "latitude": 52.10971,
+                "longitude": 7.2265,
+                "index": 152
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874736",
+            "attributes": {
+                "name": "Steinfurter Straße, 48624, Schöppingen, Noordrijn-Westfalen",
+                "street": "Steinfurter Straße",
+                "postalCode": "48624",
+                "state": "Noordrijn-Westfalen",
+                "city": "Schöppingen",
+                "country": "Duitsland",
+                "latitude": 52.10543,
+                "longitude": 7.22414,
+                "index": 153
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874737",
+            "attributes": {
+                "name": "Heinrich Rotterdam GmbH und Co. KG Rodam, 48624, Schöppingen, Noordrijn-Westfalen",
+                "street": "Heinrich Rotterdam GmbH und Co. KG Rodam",
+                "postalCode": "48624",
+                "state": "Noordrijn-Westfalen",
+                "city": "Schöppingen",
+                "country": "Duitsland",
+                "latitude": 52.1045,
+                "longitude": 7.23269,
+                "index": 154
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874738",
+            "attributes": {
+                "name": "undefined, 48624, Schöppingen, Noordrijn-Westfalen",
+                "street": null,
+                "postalCode": "48624",
+                "state": "Noordrijn-Westfalen",
+                "city": "Schöppingen",
+                "country": "Duitsland",
+                "latitude": 52.09039,
+                "longitude": 7.2372,
+                "index": 155
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874739",
+            "attributes": {
+                "name": "Hevener Weg, 48624, Schöppingen, Noordrijn-Westfalen",
+                "street": "Hevener Weg",
+                "postalCode": "48624",
+                "state": "Noordrijn-Westfalen",
+                "city": "Schöppingen",
+                "country": "Duitsland",
+                "latitude": 52.06239,
+                "longitude": 7.23576,
+                "index": 156
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874740",
+            "attributes": {
+                "name": "Paoters Pättken, 48720, Rosendahl, Noordrijn-Westfalen",
+                "street": "Paoters Pättken",
+                "postalCode": "48720",
+                "state": "Noordrijn-Westfalen",
+                "city": "Rosendahl",
+                "country": "Duitsland",
+                "latitude": 52.04784,
+                "longitude": 7.24992,
+                "index": 157
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874741",
+            "attributes": {
+                "name": "Jägerheide, 48720, Rosendahl, Noordrijn-Westfalen",
+                "street": "Jägerheide",
+                "postalCode": "48720",
+                "state": "Noordrijn-Westfalen",
+                "city": "Rosendahl",
+                "country": "Duitsland",
+                "latitude": 52.0306,
+                "longitude": 7.25344,
+                "index": 158
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874742",
+            "attributes": {
+                "name": "Up de Rieth 5, 48720, Rosendahl, Noordrijn-Westfalen",
+                "street": null,
+                "postalCode": "48720",
+                "state": "Noordrijn-Westfalen",
+                "city": "Rosendahl",
+                "country": "Duitsland",
+                "latitude": 52.02827,
+                "longitude": 7.26352,
+                "index": 159
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874743",
+            "attributes": {
+                "name": "Schlossallee, 48720, Rosendahl, Noordrijn-Westfalen",
+                "street": "Schlossallee",
+                "postalCode": "48720",
+                "state": "Noordrijn-Westfalen",
+                "city": "Rosendahl",
+                "country": "Duitsland",
+                "latitude": 52.02187,
+                "longitude": 7.26383,
+                "index": 160
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874744",
+            "attributes": {
+                "name": "Oberdarfeld, 48720, Rosendahl, Noordrijn-Westfalen",
+                "street": "Oberdarfeld",
+                "postalCode": "48720",
+                "state": "Noordrijn-Westfalen",
+                "city": "Rosendahl",
+                "country": "Duitsland",
+                "latitude": 52.01917,
+                "longitude": 7.27556,
+                "index": 161
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "routepoints",
+            "id": "67874745",
+            "attributes": {
+                "name": "Oberdarfeld, 48720, Rosendahl, Noordrijn-Westfalen",
+                "street": "Oberdarfeld",
+                "postalCode": "48720",
+                "state": "Noordrijn-Westfalen",
+                "city": "Rosendahl",
+                "country": "Duitsland",
+                "latitude": 52.01935123735082,
+                "longitude": 7.281655246029128,
+                "index": 162
+            },
+            "relationships": {
+                "poi": {}
+            }
+        },
+        {
+            "type": "categories",
+            "id": "68",
+            "attributes": {
+                "name": "Hotel",
+                "icon": 35,
+                "popup": true,
+                "defaultChecked": true,
+                "type": "POI_CATEGORY"
+            },
+            "relationships": {
+                "children": {},
+                "topLevelCategory": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1044"
+                    }
+                }
+            }
+        },
+        {
+            "type": "categories",
+            "id": "70",
+            "attributes": {
+                "name": "Restaurant",
+                "icon": 137,
+                "popup": true,
+                "defaultChecked": true,
+                "type": "POI_CATEGORY"
+            },
+            "relationships": {
+                "children": {},
+                "topLevelCategory": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1044"
+                    }
+                }
+            }
+        },
+        {
+            "type": "categories",
+            "id": "146",
+            "attributes": {
+                "name": "Regional products",
+                "icon": 104,
+                "popup": true,
+                "defaultChecked": true,
+                "type": "POI_CATEGORY"
+            },
+            "relationships": {
+                "children": {},
+                "topLevelCategory": {
+                    "data": {
+                        "type": "categories",
+                        "id": "1044"
+                    }
+                }
+            }
+        },
+        {
+            "type": "groups",
+            "id": "2",
+            "attributes": {
+                "logo": "https://dist.route.nl/grouplogos/routenl_logo.png",
+                "name": "route.nl",
+                "type": "BUSINESS",
+                "partner": false,
+                "description": null,
+                "website": "/routes/routenl"
+            },
+            "relationships": {
+                "parentGroup": {}
+            }
+        }
+    ]
+}
