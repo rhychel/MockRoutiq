@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">MockRoutiq</string>
     <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="provided_by">Provided by: %s</string>
+    <string name="based_on">Based on %d reviews</string>
+
+    <string name="distance">%d km</string>
+    <string name="time">%s u</string>
+    <string name="calorie">%d kcal</string>
+    <string name="elevation">%d m</string>
 </resources>

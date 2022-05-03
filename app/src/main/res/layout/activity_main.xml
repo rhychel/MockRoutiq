@@ -45,50 +45,130 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:padding="15dp">
+            android:orientation="vertical">
 
             <TextView
+                android:layout_marginTop="14dp"
+                android:layout_marginHorizontal="14dp"
                 android:id="@+id/tvName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="0dp"
                 android:textColor="@color/black"
-                tools:text="Name"
                 android:textSize="24sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                tools:text="Name" />
 
             <TextView
+                android:layout_marginHorizontal="14dp"
                 android:id="@+id/tvStartPoint"
-                tools:text="Start point"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="0dp"
                 android:textSize="18sp"
+                android:textStyle="bold"
+                tools:text="Start point" />
+
+
+            <include
+                android:layout_marginHorizontal="14dp"
+                android:id="@+id/incRating"
+                layout="@layout/layout_rating"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:layout_marginHorizontal="14dp"
+                android:id="@+id/tvBasedOn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:text="TextView"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_marginHorizontal="14dp"
+                android:id="@+id/tvProvidedBy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:text="Provided by: Staatbosbeheer"
+                android:textSize="16sp"
                 android:textStyle="bold" />
+
+            <include
+                android:id="@+id/incStats"
+                layout="@layout/layout_route_stats"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginHorizontal="14dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="12dp"
+                android:text="Description"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_marginHorizontal="14dp"
+                android:id="@+id/tvDescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="12dp"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:maxLines="7"
+                android:ellipsize="end"
+                android:tag="ellipsized"/>
+
+            <Button
+                android:id="@+id/btnReadMore"
+                style="@style/Widget.Material3.Button.TextButton"
+                android:layout_width="wrap_content"
+                android:layout_height="28dp"
+                android:drawableEnd="@drawable/ic_chevron"
+                android:insetTop="0dp"
+                android:insetBottom="0dp"
+                android:text="Lees meer"
+                android:textSize="14sp"
+                app:iconPadding="8dp" />
 
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/rvImages"
-                android:scrollbars="horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_marginBottom="12dp" />
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="12dp"
+                android:paddingStart="8dp"
+                android:scrollbars="horizontal" />
 
             <TextView
+                android:layout_marginHorizontal="14dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="0dp"
-                android:textColor="@color/black"
-                android:text="Place of Interests"
-                android:textSize="20sp"
                 android:layout_marginBottom="12dp"
+                android:text="Place of Interests"
+                android:textColor="@color/black"
+                android:textSize="20sp"
                 android:textStyle="bold" />
 
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/rvPois"
-                android:scrollbars="horizontal"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:paddingStart="8dp"
+                android:scrollbars="horizontal" />
+
+            <include
+                android:id="@+id/incProvidedBy"
+                layout="@layout/layout_provided_by"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
 
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>

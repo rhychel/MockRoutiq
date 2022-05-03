@@ -3,6 +3,7 @@ package com.rhymartmanchus.mockroutiq.data
 import com.google.gson.*
 import com.rhymartmanchus.mockroutiq.domain.PlaceOfInterest
 import com.rhymartmanchus.mockroutiq.domain.RouteDetail
+import com.rhymartmanchus.mockroutiq.domain.RouteProvider
 import java.lang.reflect.Type
 
 class RouteResponseDeserializer : JsonDeserializer<RouteDetail> {
@@ -35,6 +36,17 @@ class RouteResponseDeserializer : JsonDeserializer<RouteDetail> {
 
         val placeOfInterests = getPlaceOfInterests(data, included)
 
+        val provider = getGroup(
+            getGroupId(data),
+            included
+        )
+        val providedBy = provider?.let {
+            RouteProvider(
+                it.getAsJsonObject("attributes").get("name").asString,
+                it.getAsJsonObject("attributes").get("logo").asString
+            )
+        }
+
         return RouteDetail(
             dataAttributes.get("name").asString,
             startPoint?.getAsJsonObject("attributes")?.get("name")?.asString ?: "N/A",
@@ -47,7 +59,8 @@ class RouteResponseDeserializer : JsonDeserializer<RouteDetail> {
             dataAttributes.get("totalTime").asInt,
             dataAttributes.get("elevationMeters").asInt,
             images,
-            placeOfInterests
+            placeOfInterests,
+            providedBy
         )
     }
 
@@ -66,6 +79,21 @@ class RouteResponseDeserializer : JsonDeserializer<RouteDetail> {
         data.getAsJsonObject("relationships")
             .getAsJsonObject("categories")
             .getAsJsonArray("data")
+
+    private fun getGroupId(data: JsonObject): String =
+        data.getAsJsonObject("relationships")
+            .getAsJsonObject("group")
+            .getAsJsonObject("data")
+            .get("id").asString
+
+    private fun getGroup(id: String, included: JsonArray): JsonObject? =
+        included
+            .filter {
+                it.asJsonObject.get("type").asString == "groups"
+            }
+            .find {
+                it.asJsonObject.get("id").asString == id
+            }?.asJsonObject
 
     private fun getCategory(id: String, included: JsonArray): String =
         included

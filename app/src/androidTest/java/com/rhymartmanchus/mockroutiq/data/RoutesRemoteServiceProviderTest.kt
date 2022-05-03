@@ -57,6 +57,12 @@ class RoutesRemoteServiceProviderTest {
         assert(routeDetail.placeOfInterests.isNotEmpty())
     }
 
+    fun test_fetchRouteDetails_routeProvider() = runBlocking {
+        val routeDetail = routesRemoteService.fetchRouteDetails()
+
+        assertEquals("route.nl", routeDetail.providedBy!!.name)
+    }
+
     @Test
     fun test_millis() {
         val calendar = Calendar.getInstance()

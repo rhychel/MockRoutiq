@@ -12,5 +12,6 @@ data class RouteDetail (
     val millisTime: Int,
     val elevationMeters: Int,
     val images: List<String>,
-    val placeOfInterests: List<PlaceOfInterest>
+    val placeOfInterests: List<PlaceOfInterest>,
+    val providedBy: RouteProvider?
 )
